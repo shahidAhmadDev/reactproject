@@ -1,0 +1,10 @@
+*{
+    margin: 1rem;
+}
+.calculator{
+    border: 2px solid black;
+    width: 250px;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
